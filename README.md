@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/isioma-m-b69418251/">Isioma M</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity is more than just a field to me, it's a passion. I love diving into hands-on projects that challenge me to think critically and solve real-world security issues. Whether it's risk assessment, threat detection, or strengthening security frameworks, I’m always exploring ways to stay ahead in this ever-evolving landscape. Check out my projects to see how I put theory into practice
 
 
 ## ⚠️ Vulnerability Management Projects
